@@ -40,3 +40,4 @@ def main():
         login=login, password=password, zabbix_url=zabbix_url
     )
     print(info)
+
